@@ -12,4 +12,4 @@ print('\nPalabra continue: ')
 for numero in range(1, 10):
     if numero % 2 == 1:  # numero impar
         continue
-    print(numero)  # numeros pares
+    print(numero)  # imprimir numeros pares
