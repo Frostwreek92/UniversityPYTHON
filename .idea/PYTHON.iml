@@ -4,6 +4,8 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/003 - Variables en Python/Ejercicios/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/008 - Ciclos en Python/Ciclos/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/009 - Colecciones en Python/Colecciones/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.14 (PYTHON)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
